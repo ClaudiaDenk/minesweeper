@@ -159,7 +159,7 @@ public class GameCell
      */
     public final boolean isCovered()
     {
-        return covered;
+        return this.covered;
     }
 
     /**
